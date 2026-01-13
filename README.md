@@ -140,5 +140,5 @@ Ce projet vise à mettre en place un environnement Active Directory sous Windows
 ###### *Ref 19 - Confirmation de l’ajout du poste client au domaine*
 <img width="180" height="130" alt="SVR_AD_LAB-Yourein" src="https://github.com/user-attachments/assets/e8c97db9-d5f8-4354-8920-20a56d9e0523" />
 
-###### Ref20 - Connexion au compte Tech*
+###### *Ref 20 - Connexion au compte Tech*
 <img width="200" height="221" alt="SVR_AD_LAB-Signin" src="https://github.com/user-attachments/assets/8f23a91e-5e94-4e67-a2ad-75766d581ba3" />

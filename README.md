@@ -64,7 +64,7 @@ Le lab a été réalisé dans un environnement de machines virtuelles afin de re
 <img width="600" height="400" alt="SRV_AD_LAB-testconnectivite" src="https://github.com/user-attachments/assets/f19b09c3-6e1a-4a50-afec-d6bb36c250ce" />
 
 ### Configuration des rôles Active Directory Domain Services (AD DS) et DNS
--Une fois l’assistant d’installation lancé, les étapes suivantes ont été réalisées:
+- Une fois l’assistant d’installation lancé, les étapes suivantes ont été réalisées:
 	- Avant de commencer l'installation, une vérification des conditions préalables a été effectuée.
 	- L’option 'Installation basée sur un rôle ou une fonctionnalité' a été sélectionnée.
 	- Le serveur SVR-LAB a été choisi comme serveur de destination pour l’installation des rôles et fonctionnalités.

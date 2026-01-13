@@ -1,4 +1,4 @@
-# Windows Server 2022 & AD Lab
+# Lab Active Directory – Windows Server 2022
 
 ## Présentation du projet
 Ce projet est un lab pratique réalisé dans le cadre de mon apprentissage en informatique.  

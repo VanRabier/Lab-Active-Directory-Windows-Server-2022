@@ -1,10 +1,7 @@
 # Lab Active Directory – Windows Server 2022
 
 ## Présentation du projet
-Ce projet est un lab pratique réalisé dans le cadre de mon apprentissage en informatique.  
-Il a pour objectif de me familiariser avec Windows Server 2022 et les bases de l’Active Directory.
-
-Le lab a été réalisé dans un environnement de machines virtuelles afin de reproduire un contexte proche du monde professionnel.
+Ce projet vise à mettre en place un environnement Active Directory sous Windows Server 2022 dans un environnement virtualisé.  Il comprend l’installation des rôles AD DS et DNS, la création du domaine lab.local, ainsi que la mise en place d’une unité d’organisation et d'un compte utilisateur.  Un poste client Windows a été configuré et joint au domaine afin de valider le bon fonctionnement de l’authentification Active Directory.
 
 ## Compétences développées
 - Administration de base de Windows Server
